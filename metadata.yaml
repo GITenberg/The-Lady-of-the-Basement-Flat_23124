@@ -1,0 +1,43 @@
+_repo: The-Lady-of-the-Basement-Flat_23124
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bellows, Elizabeth
+    alias: Earnshaw, Elizabeth
+    gutenberg_agent_id: '25694'
+    url: http://www.gutenberg.org/2009/agents/25694
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaizey, George de Horne, Mrs.
+    aliases:
+    - Mansergh, Jessie
+    - Vaizey, Jessie Bell
+    - Vaizey, Mrs. George de Horne
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '9729'
+    url: http://www.gutenberg.org/2009/agents/9729
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
+description: What would you do if the sister with whom you had spent your whole life
+  was suddenly whisked away by a suitor? That's exactly the fate that befalls a certain
+  Miss Harding, the eccentric heroine at the center of The Lady of the Basement Flat.
+  Dedicating herself to charitable acts carried out under the cloak of anonymity,
+  Miss Harding is able to find some measure of happiness -- when suddenly, love turns
+  her whole world upside down.
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Single women -- Fiction'
+title: The Lady of the Basement Flat
+url: http://www.gutenberg.org/ebooks/23124
